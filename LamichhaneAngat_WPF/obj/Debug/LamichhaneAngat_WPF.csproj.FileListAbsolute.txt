@@ -1,0 +1,14 @@
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\bin\Debug\LamichhaneAngat_WPF.exe.config
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF.csprojResolveAssemblyReference.cache
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\App.g.cs
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF_MarkupCompile.cache
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\bin\Debug\LamichhaneAngat_WPF.exe
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\bin\Debug\LamichhaneAngat_WPF.pdb
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\MainWindow.g.cs
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF_MarkupCompile.lref
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\MainWindow.baml
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF.g.resources
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF.Properties.Resources.resources
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF.csproj.GenerateResource.Cache
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF.exe
+E:\P4\P4\LamichhaneAngat_WPF\LamichhaneAngat_WPF\obj\Debug\LamichhaneAngat_WPF.pdb
